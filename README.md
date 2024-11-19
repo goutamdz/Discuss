@@ -1,6 +1,6 @@
 
 # Live Link
-[Click here to view the project](http://goutamhzb1.42web.io/)
+<a href="https://goutamhzb1.42web.io">Click here to view the project</a>
 
 ---
 
